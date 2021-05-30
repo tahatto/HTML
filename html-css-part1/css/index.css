@@ -1,0 +1,32 @@
+body{
+    background-color: #f7fff7;
+    text-align: center;
+    color: #4ecdc4;
+    font-family: 'Padauk', sans-serif;
+}
+h1,h2,h3{
+    color: #1a535c;
+    
+}
+
+.navbar li{
+    list-style-type: square;
+    display: inline;
+     
+}
+
+.navbar a{
+    text-decoration-line: none;
+    color: #ffe66d ;
+    font-weight: bold; 
+}
+#ürünler li{
+    list-style-position: inside;
+    margin-left: -50px;
+    list-style-type: square;
+    
+}
+
+.navbar a:hover{
+    background-color: #4ecdc4 ;
+}

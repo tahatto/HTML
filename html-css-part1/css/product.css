@@ -1,0 +1,46 @@
+img {
+    width: 200px;
+}
+
+body{
+    background-color: #f7fff7;
+    text-align: center;
+    color: #4ecdc4;
+    font-family: 'Padauk', sans-serif;
+}
+
+h1,h2 {
+    color: #1a535c ;
+}
+
+h3 {
+    color: #ff6b6b ;
+}
+.ürünler {
+    list-style-position: inside;
+    margin-left: -50px;
+    list-style-type: square;
+    /* color: #ff6b6b ; */
+    
+}
+
+.navbar li{
+    list-style-type: square;
+    display: inline;
+     
+}
+
+.navbar a{
+    text-decoration-line: none;
+    color: #ffe66d ;
+    font-weight: bold;
+}
+
+.navbar a:hover{
+    background-color: #4ecdc4 ;
+}
+
+.ürünler p{
+    font-weight: bold;
+    color: #1a535c;
+}
